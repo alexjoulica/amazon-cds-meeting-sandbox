@@ -1,8 +1,4 @@
 version: 1
-env:
-  ACCESS_KEY_ID = "AKIA5HSM2YGI73FPNDGV"
-  SECRET_ACCESS_KEY = "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"
-  AMPLIFY_EXPERIMENTAL_ = true
 frontend:
   phases:
     preBuild:
